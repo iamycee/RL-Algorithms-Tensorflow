@@ -1,2 +1,4 @@
 # RL-Algorithms-Tensorflow
-Implementing multiple RL algorithms in Tensorflow
+
+Following the tutorial series by Arthur Juliani on Medium. 
+Making my own tweaks to the projects.
