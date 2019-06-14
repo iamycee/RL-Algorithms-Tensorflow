@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ycee/Projects/RLBasics/Deep Q Learning/experiments/Breakout-v0/checkpoints/model"
+all_model_checkpoint_paths: "/home/ycee/Projects/RLBasics/Deep Q Learning/experiments/Breakout-v0/checkpoints/model"
